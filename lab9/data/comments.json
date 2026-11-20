@@ -1,0 +1,20 @@
+[
+    {
+        "id": "cmt_6b005566870fb3.12042709",
+        "post_id": 1,
+        "author_name": "Даніела",
+        "text": "Дуже корисний і зрозумілий допис",
+        "rating": 4,
+        "moderation_status": "preliminary_check_passed",
+        "created_at": "2026-11-20 15:12:54"
+    },
+    {
+        "id": "cmt_6b005687bcd563.67526270",
+        "post_id": 1,
+        "author_name": "Даніела",
+        "text": "Це <script>alert(1)<\/script> реклама",
+        "rating": 3,
+        "moderation_status": "pending_review",
+        "created_at": "2026-11-20 15:17:43"
+    }
+]
